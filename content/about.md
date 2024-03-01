@@ -2,19 +2,19 @@
 title = "About"
 +++
 
-## Hello there 🙋‍♂️
-My name is Thomas, I'm currently studying Informatics and Telecommunications at the University of Ioannina, Greece
+# Hello there 🙋‍♂️
+My name is Thomas, I am currently pursuing a degree in Informatics and Telecommunications at the University of Ioannina, Greece
 
-## My Interests
+## 🎯 My Interests
 - Software Development
 - Computer Architecture
 
-## Programming languages
+## 💻 Programming languages
 - Cpp
 - Rust
 
-## Languages
-- Greek
-- English
-- French (Needs revision)
-- German (soon™)
+## 🌐 Languages
+- Greek (Native)
+- English (Fluent)
+- French (Intermediate, needs revision)
+- German (Beginner, learning in progress)

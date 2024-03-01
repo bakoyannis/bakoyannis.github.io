@@ -11,6 +11,6 @@ Now that the blog is finally ready to use, it's time to set some goals for the n
 - Get fit 💪
 
 ## Book list
-- [Rust Atomics](https://marabos.nl/atomics/)
 - [C++ Concurrency in Action, Second Edition](https://www.manning.com/books/c-plus-plus-concurrency-in-action-second-edition)
+- [Rust Atomics](https://marabos.nl/atomics/)
 - Many more as I go ...
