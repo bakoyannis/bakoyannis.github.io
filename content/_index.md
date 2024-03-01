@@ -2,6 +2,6 @@
 +++
 
 ## Hey 👋
-> Welcome to my personal blog
-- You can find more details about me [here](./about)  
-- The source code for this repository can be found [here](https://github.com/bakoyannis/bakoyannis.github.io)
+> Welcome to my personal blog. This platform serves as a repository for my thoughts and experiences in the realm of software engineering.
+- Learn more about me [here](./about)  
+- Source code for this repository [here](https://github.com/bakoyannis/bakoyannis.github.io)

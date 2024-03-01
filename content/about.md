@@ -3,22 +3,22 @@ title = "About"
 +++
 
 ## Hello there 🙋‍♂️
-My name is Thomas, I am currently pursuing a degree in Informatics and Telecommunications at the University of Ioannina, Greece
+I'm Thomas, an aspiring Software Engineer studying at the University of Ioannina in Greece.
 
-## 🎯 My Interests
-- Software Development
-- Concurrency & Performance
+## What Drives Me 🚀
+- Crafting robust software solutions
+- Exploring the intricacies of concurrency and performance optimization
 
-## 💻 Programming languages
-- C
-- C++
+## Programming Languages 🛠️
+- **C**
+- **C++**
 
-## 🌐 Languages
-- Greek (Native)
-- English (Fluent)
-- French (Intermediate, needs revision)
-- German (Beginner, learning in progress)
+## Human Languages 🌐
+- Native in **Greek**
+- Fluent in **English**
+- Intermediate proficiency in **French** (in the process of refreshing)
+- Beginner in **German** (actively learning)
 
-## 📚 Currently Learning
-- Python
-- Rust
+## Currently Learning 📚
+- **Rust**
+- **Python**
