@@ -10,8 +10,8 @@ I'm Thomas, an aspiring Software Engineer studying at the University of Ioannina
 - Exploring the intricacies of concurrency and performance optimization
 
 ## Programming Languages 🛠️
-- **C**
 - **C++**
+- **Python**
 
 ## Human Languages 🌐
 - Native in **Greek**
@@ -21,4 +21,3 @@ I'm Thomas, an aspiring Software Engineer studying at the University of Ioannina
 
 ## Currently Learning 📚
 - **Rust**
-- **Python**
