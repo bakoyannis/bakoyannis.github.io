@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://bakoyannis.github.io/</loc>
+    </url>
+    <url>
+        <loc>https://bakoyannis.github.io/about/</loc>
+    </url>
+    <url>
+        <loc>https://bakoyannis.github.io/blog/</loc>
+    </url>
+    <url>
+        <loc>https://bakoyannis.github.io/blog/introduction/</loc>
+        <lastmod>2024-08-10</lastmod>
+    </url>
+    <url>
+        <loc>https://bakoyannis.github.io/blog/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://bakoyannis.github.io/journal/</loc>
+        <lastmod>2019-10-05</lastmod>
+    </url>
+    <url>
+        <loc>https://bakoyannis.github.io/tags/</loc>
+    </url>
+    <url>
+        <loc>https://bakoyannis.github.io/tags/vulkan-engine/</loc>
+    </url>
+</urlset>

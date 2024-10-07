@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Thomas&#x27;s Blog - Vulkan Engine</title>
+    <subtitle>Interesting stuff...</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://bakoyannis.github.io/tags/vulkan-engine/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://bakoyannis.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-08-10T00:00:00+00:00</updated>
+    <id>https://bakoyannis.github.io/tags/vulkan-engine/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Introduction</title>
+        <published>2024-08-10T00:00:00+00:00</published>
+        <updated>2024-08-10T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://bakoyannis.github.io/blog/introduction/"/>
+        <id>https://bakoyannis.github.io/blog/introduction/</id>
+        
+        <content type="html" xml:base="https://bakoyannis.github.io/blog/introduction/">&lt;p&gt;Today marks the beginning of hopefully many different development blog posts about
+developing my own rendering&#x2F;game engine using Vulkan as the graphics API.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;personal-goals&quot;&gt;Personal Goals&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Learn more about Computer Graphics in general.&lt;&#x2F;li&gt;
+&lt;li&gt;Get familiar with designing complex software.&lt;&#x2F;li&gt;
+&lt;li&gt;Use multi-threading effectively&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;project-goals&quot;&gt;Project Goals&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Make a game engine tailored for real-time Grand Strategy games.&lt;&#x2F;li&gt;
+&lt;li&gt;Create debug tools for said engine.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;ambitious-goals&quot;&gt;Ambitious Goals&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Be able to create a simple Grand Strategy game.&lt;&#x2F;li&gt;
+&lt;li&gt;Make it easy to modify or completely change said game. A good example would be games made by Paradox Interactive.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+</feed>
